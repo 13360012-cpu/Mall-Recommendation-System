@@ -1,0 +1,1532 @@
+{
+  "mall_name": "新光三越 桃園站前店",
+  "nodes": [
+    {
+      "id": "B1F_ESC",
+      "name": "B1F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "B1F",
+      "features": [0, 0],
+      "neighbors": ["B1F_01", "B1F_10"],
+      "floor_links": ["1F_ESC"]
+    },
+    {
+      "id": "B1F_01",
+      "name": "31冰淇淋",
+      "category": "餐飲甜點",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_ESC", "B1F_02"]
+    },
+    {
+      "id": "B1F_02",
+      "name": "BIOZYME 大漢酵素",
+      "category": "保健養生",
+      "floor": "B1F",
+      "features": [4, 3],
+      "neighbors": ["B1F_01", "B1F_03"]
+    },
+    {
+      "id": "B1F_03",
+      "name": "COLD STONE 酷聖石",
+      "category": "餐飲甜點",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_02", "B1F_04"]
+    },
+    {
+      "id": "B1F_04",
+      "name": "HAPPY FARMER",
+      "category": "食品生鮮",
+      "floor": "B1F",
+      "features": [4, 3],
+      "neighbors": ["B1F_03", "B1F_05"]
+    },
+    {
+      "id": "B1F_05",
+      "name": "Kenangan COFFEE",
+      "category": "飲品咖啡",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_04", "B1F_06"]
+    },
+    {
+      "id": "B1F_06",
+      "name": "游家牛排",
+      "category": "餐飲小吃",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_05", "B1F_07"]
+    },
+    {
+      "id": "B1F_07",
+      "name": "滷味杯杯",
+      "category": "餐飲小吃",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_06", "B1F_08"]
+    },
+    {
+      "id": "B1F_08",
+      "name": "點點心",
+      "category": "餐飲名店",
+      "floor": "B1F",
+      "features": [4, 3],
+      "neighbors": ["B1F_07", "B1F_09"]
+    },
+    {
+      "id": "B1F_09",
+      "name": "丸亀製麵",
+      "category": "餐飲小吃",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_08", "B1F_10"]
+    },
+    {
+      "id": "B1F_10",
+      "name": "日藥本舖",
+      "category": "美妝藥妝",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_09", "B1F_11", "B1F_ESC"]
+    },
+    {
+      "id": "B1F_11",
+      "name": "春水堂",
+      "category": "餐飲名店",
+      "floor": "B1F",
+      "features": [5, 3],
+      "neighbors": ["B1F_10", "B1F_12"]
+    },
+    {
+      "id": "B1F_12",
+      "name": "韓州",
+      "category": "餐飲小吃",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_11", "B1F_13"]
+    },
+    {
+      "id": "B1F_13",
+      "name": "鬍子茶WHO'S TEA",
+      "category": "飲品輕食",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_12", "B1F_14"]
+    },
+    {
+      "id": "B1F_14",
+      "name": "津津韓式小吃",
+      "category": "餐飲小吃",
+      "floor": "B1F",
+      "features": [4, 2],
+      "neighbors": ["B1F_13", "B1F_ESC"]
+    },
+
+    {
+      "id": "1F_ESC",
+      "name": "1F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "1F",
+      "features": [0, 0],
+      "neighbors": ["1F_01", "1F_19"],
+      "floor_links": ["B1F_ESC", "2F_ESC"]
+    },
+    {
+      "id": "1F_01",
+      "name": "Aesop",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_ESC", "1F_02"]
+    },
+    {
+      "id": "1F_02",
+      "name": "ALBION 艾倫比亞",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_01", "1F_03"]
+    },
+    {
+      "id": "1F_03",
+      "name": "APM Monaco",
+      "category": "流行飾品",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_02", "1F_04"]
+    },
+    {
+      "id": "1F_04",
+      "name": "beautySTAGE",
+      "category": "美妝集合",
+      "floor": "1F",
+      "features": [4, 3],
+      "neighbors": ["1F_03", "1F_05"]
+    },
+    {
+      "id": "1F_05",
+      "name": "BENEFIT",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [4, 3],
+      "neighbors": ["1F_04", "1F_06"]
+    },
+    {
+      "id": "1F_06",
+      "name": "BOBBI BROWN 芭比波朗",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_05", "1F_07"]
+    },
+    {
+      "id": "1F_07",
+      "name": "CHANEL 香奈兒",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_06", "1F_08"]
+    },
+    {
+      "id": "1F_08",
+      "name": "CLARINS 克蘭詩",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_07", "1F_09"]
+    },
+    {
+      "id": "1F_09",
+      "name": "COSME DECORTE 黛珂",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_08", "1F_10"]
+    },
+    {
+      "id": "1F_10",
+      "name": "DIPTYQUE",
+      "category": "香氛精品",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_09", "1F_11"]
+    },
+    {
+      "id": "1F_11",
+      "name": "DIOR迪奧",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_10", "1F_12"]
+    },
+    {
+      "id": "1F_12",
+      "name": "ESTEE LAUDER 雅詩蘭黛",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_11", "1F_13"]
+    },
+    {
+      "id": "1F_13",
+      "name": "GUERLAIN 嬌蘭",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_12", "1F_14"]
+    },
+    {
+      "id": "1F_14",
+      "name": "iStore",
+      "category": "3C數位",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_13", "1F_15"]
+    },
+    {
+      "id": "1F_15",
+      "name": "JO MALONE LONDON",
+      "category": "香氛精品",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_14", "1F_16"]
+    },
+    {
+      "id": "1F_16",
+      "name": "KIEHL'S契爾氏",
+      "category": "美妝保養",
+      "floor": "1F",
+      "features": [5, 3],
+      "neighbors": ["1F_15", "1F_17"]
+    },
+    {
+      "id": "1F_17",
+      "name": "LANCOME 蘭蔻",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_16", "1F_18"]
+    },
+    {
+      "id": "1F_18",
+      "name": "L'OCCITANE 歐舒丹",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 3],
+      "neighbors": ["1F_17", "1F_19"]
+    },
+    {
+      "id": "1F_19",
+      "name": "MAKE UP FOR EVER",
+      "category": "專業彩妝",
+      "floor": "1F",
+      "features": [4, 3],
+      "neighbors": ["1F_18", "1F_20", "1F_ESC"]
+    },
+    {
+      "id": "1F_20",
+      "name": "NARS",
+      "category": "專業彩妝",
+      "floor": "1F",
+      "features": [5, 3],
+      "neighbors": ["1F_19", "1F_21"]
+    },
+    {
+      "id": "1F_21",
+      "name": "OLENS",
+      "category": "美瞳隱眼",
+      "floor": "1F",
+      "features": [4, 2],
+      "neighbors": ["1F_20", "1F_22"]
+    },
+    {
+      "id": "1F_22",
+      "name": "10/10 APOTHECARY",
+      "category": "頂級複合美妝",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_21", "1F_23"]
+    },
+    {
+      "id": "1F_23",
+      "name": "SABON",
+      "category": "香氛沐浴",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_22", "1F_24"]
+    },
+    {
+      "id": "1F_24",
+      "name": "SHISEIDO國際櫃－資生堂國際櫃",
+      "category": "美妝香氛",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_23", "1F_25"]
+    },
+    {
+      "id": "1F_25",
+      "name": "SHU UEMURA 植村秀",
+      "category": "專業彩妝",
+      "floor": "1F",
+      "features": [5, 4],
+      "neighbors": ["1F_24", "1F_26"]
+    },
+    {
+      "id": "1F_26",
+      "name": "SKII",
+      "category": "美妝保養",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_25", "1F_27"]
+    },
+    {
+      "id": "1F_27",
+      "name": "SUQQU",
+      "category": "專業彩妝",
+      "floor": "1F",
+      "features": [5, 5],
+      "neighbors": ["1F_26", "1F_ESC"]
+    },
+
+    {
+      "id": "2F_ESC",
+      "name": "2F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "2F",
+      "features": [0, 0],
+      "neighbors": ["2F_01", "2F_08"],
+      "floor_links": ["1F_ESC", "3F_ESC"]
+    },
+    {
+      "id": "2F_01",
+      "name": "ALLSAINTS",
+      "category": "潮流服飾",
+      "floor": "2F",
+      "features": [5, 4],
+      "neighbors": ["2F_ESC", "2F_02"]
+    },
+    {
+      "id": "2F_02",
+      "name": "GINZA DIAMOND SHIRAISHI",
+      "category": "頂級珠寶",
+      "floor": "2F",
+      "features": [5, 5],
+      "neighbors": ["2F_01", "2F_03"]
+    },
+    {
+      "id": "2F_03",
+      "name": "Le Chatelet",
+      "category": "流行精品",
+      "floor": "2F",
+      "features": [4, 3],
+      "neighbors": ["2F_02", "2F_04"]
+    },
+    {
+      "id": "2F_04",
+      "name": "L'ERBOLARIO 蕾莉歐",
+      "category": "植萃保養",
+      "floor": "2F",
+      "features": [4, 3],
+      "neighbors": ["2F_03", "2F_05"]
+    },
+    {
+      "id": "2F_05",
+      "name": "NIKE KICKS LOUNGE",
+      "category": "運動潮流",
+      "floor": "2F",
+      "features": [5, 3],
+      "neighbors": ["2F_04", "2F_06"]
+    },
+    {
+      "id": "2F_06",
+      "name": "52TOYS",
+      "category": "潮流玩具",
+      "floor": "2F",
+      "features": [4, 2],
+      "neighbors": ["2F_05", "2F_07"]
+    },
+    {
+      "id": "2F_07",
+      "name": "鎮金店",
+      "category": "黃金珠寶",
+      "floor": "2F",
+      "features": [5, 5],
+      "neighbors": ["2F_06", "2F_08"]
+    },
+    {
+      "id": "2F_08",
+      "name": "點睛品",
+      "category": "黃金珠寶",
+      "floor": "2F",
+      "features": [5, 5],
+      "neighbors": ["2F_07", "2F_09", "2F_ESC"]
+    },
+    {
+      "id": "2F_09",
+      "name": "PORTER INTERNATIONAL",
+      "category": "流行包款",
+      "floor": "2F",
+      "features": [4, 3],
+      "neighbors": ["2F_08", "2F_10"]
+    },
+    {
+      "id": "2F_10",
+      "name": "RAYBAN-葛洛麗雅",
+      "category": "眼鏡配件",
+      "floor": "2F",
+      "features": [4, 3],
+      "neighbors": ["2F_09", "2F_11"]
+    },
+    {
+      "id": "2F_11",
+      "name": "THE BODY SHOP 美體小舖",
+      "category": "香氛沐浴",
+      "floor": "2F",
+      "features": [4, 3],
+      "neighbors": ["2F_10", "2F_ESC"]
+    },
+
+    {
+      "id": "3F_ESC",
+      "name": "3F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "3F",
+      "features": [0, 0],
+      "neighbors": ["3F_01", "3F_13"],
+      "floor_links": ["2F_ESC", "4F_ESC"]
+    },
+    {
+      "id": "3F_01",
+      "name": "Anita Su",
+      "category": "流行女裝",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_ESC", "3F_02"]
+    },
+    {
+      "id": "3F_02",
+      "name": "AS",
+      "category": "流行女鞋",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_01", "3F_03"]
+    },
+    {
+      "id": "3F_03",
+      "name": "CANDACE洪秀女",
+      "category": "設計師女裝",
+      "floor": "3F",
+      "features": [4, 4],
+      "neighbors": ["3F_02", "3F_04"]
+    },
+    {
+      "id": "3F_04",
+      "name": "DITA",
+      "category": "流行女裝",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_03", "3F_05"]
+    },
+    {
+      "id": "3F_05",
+      "name": "Ea女鞋",
+      "category": "流行女鞋",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_04", "3F_06"]
+    },
+    {
+      "id": "3F_06",
+      "name": "HER&HIM",
+      "category": "流行女裝",
+      "floor": "3F",
+      "features": [4, 2],
+      "neighbors": ["3F_05", "3F_07"]
+    },
+    {
+      "id": "3F_07",
+      "name": "Le Polka",
+      "category": "流行女裝",
+      "floor": "3F",
+      "features": [4, 2],
+      "neighbors": ["3F_06", "3F_08"]
+    },
+    {
+      "id": "3F_08",
+      "name": "MAGY",
+      "category": "流行女鞋",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_07", "3F_09"]
+    },
+    {
+      "id": "3F_09",
+      "name": "高美芬KAO MEI FEN",
+      "category": "設計師女裝",
+      "floor": "3F",
+      "features": [4, 4],
+      "neighbors": ["3F_08", "3F_10"]
+    },
+    {
+      "id": "3F_10",
+      "name": "0918",
+      "category": "流行女裝",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_09", "3F_11"]
+    },
+    {
+      "id": "3F_11",
+      "name": "法雅客",
+      "category": "3C影音",
+      "floor": "3F",
+      "features": [5, 4],
+      "neighbors": ["3F_10", "3F_12"]
+    },
+    {
+      "id": "3F_12",
+      "name": "PLAYBOY.男包",
+      "category": "皮件包款",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_11", "3F_13"]
+    },
+    {
+      "id": "3F_13",
+      "name": "Roots",
+      "category": "休閒服飾",
+      "floor": "3F",
+      "features": [5, 3],
+      "neighbors": ["3F_12", "3F_14", "3F_ESC"]
+    },
+    {
+      "id": "3F_14",
+      "name": "STEVE MADDEN",
+      "category": "潮流女鞋",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_13", "3F_15"]
+    },
+    {
+      "id": "3F_15",
+      "name": "TIARA TIARA",
+      "category": "飾品配件",
+      "floor": "3F",
+      "features": [4, 2],
+      "neighbors": ["3F_14", "3F_16"]
+    },
+    {
+      "id": "3F_16",
+      "name": "TOP DO",
+      "category": "休閒女裝",
+      "floor": "3F",
+      "features": [4, 3],
+      "neighbors": ["3F_15", "3F_17"]
+    },
+    {
+      "id": "3F_17",
+      "name": "URE",
+      "category": "流行女裝",
+      "floor": "3F",
+      "features": [4, 2],
+      "neighbors": ["3F_16", "3F_18"]
+    },
+    {
+      "id": "3F_18",
+      "name": "woosa",
+      "category": "輕食鬆餅",
+      "floor": "3F",
+      "features": [5, 3],
+      "neighbors": ["3F_17", "3F_ESC"]
+    },
+
+    {
+      "id": "4F_ESC",
+      "name": "4F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "4F",
+      "features": [0, 0],
+      "neighbors": ["4F_01", "4F_17"],
+      "floor_links": ["3F_ESC", "5F_ESC"]
+    },
+    {
+      "id": "4F_01",
+      "name": "BETTY'S",
+      "category": "少女服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_ESC", "4F_02"]
+    },
+    {
+      "id": "4F_02",
+      "name": "B．CLUB",
+      "category": "少女服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_01", "4F_03"]
+    },
+    {
+      "id": "4F_03",
+      "name": "BO DEREK女包",
+      "category": "女用包款",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_02", "4F_04"]
+    },
+    {
+      "id": "4F_04",
+      "name": "CUMAR女包",
+      "category": "女用包款",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_03", "4F_05"]
+    },
+    {
+      "id": "4F_05",
+      "name": "DAILO",
+      "category": "少女服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_04", "4F_06"]
+    },
+    {
+      "id": "4F_06",
+      "name": "DOCH",
+      "category": "少女服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_05", "4F_07"]
+    },
+    {
+      "id": "4F_07",
+      "name": "GOZO",
+      "category": "少女服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_06", "4F_08"]
+    },
+    {
+      "id": "4F_08",
+      "name": "Hodin Choice",
+      "category": "精選飾品",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_07", "4F_09"]
+    },
+    {
+      "id": "4F_09",
+      "name": "H2O",
+      "category": "少女服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_08", "4F_10"]
+    },
+    {
+      "id": "4F_10",
+      "name": "HANA MOKUBA",
+      "category": "流行女裝",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_09", "4F_11"]
+    },
+    {
+      "id": "4F_11",
+      "name": "HYGEIA 海吉兒",
+      "category": "流行女裝",
+      "floor": "4F",
+      "features": [4, 3],
+      "neighbors": ["4F_10", "4F_12"]
+    },
+    {
+      "id": "4F_12",
+      "name": "KINLOCH ANDERSON.女裝",
+      "category": "英倫服飾",
+      "floor": "4F",
+      "features": [4, 3],
+      "neighbors": ["4F_11", "4F_13"]
+    },
+    {
+      "id": "4F_13",
+      "name": "MA－TSU Mi",
+      "category": "日系服飾",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_12", "4F_14"]
+    },
+    {
+      "id": "4F_14",
+      "name": "PiiN 品東西",
+      "category": "居家生活",
+      "floor": "4F",
+      "features": [4, 3],
+      "neighbors": ["4F_13", "4F_15"]
+    },
+    {
+      "id": "4F_15",
+      "name": "rather",
+      "category": "流行服飾",
+      "floor": "4F",
+      "features": [4, 3],
+      "neighbors": ["4F_14", "4F_16"]
+    },
+    {
+      "id": "4F_16",
+      "name": "RAIN STORY",
+      "category": "雨具生活",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_15", "4F_17"]
+    },
+    {
+      "id": "4F_17",
+      "name": "SHARON",
+      "category": "流行配件",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_16", "4F_18", "4F_ESC"]
+    },
+    {
+      "id": "4F_18",
+      "name": "SPANCONNY ACCESSORY",
+      "category": "飾品配件",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_17", "4F_19"]
+    },
+    {
+      "id": "4F_19",
+      "name": "TIFF",
+      "category": "流行女裝",
+      "floor": "4F",
+      "features": [4, 2],
+      "neighbors": ["4F_18", "4F_ESC"]
+    },
+
+    {
+      "id": "5F_ESC",
+      "name": "5F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "5F",
+      "features": [0, 0],
+      "neighbors": ["5F_01", "5F_07"],
+      "floor_links": ["4F_ESC", "6F_ESC"]
+    },
+    {
+      "id": "5F_01",
+      "name": "CACO",
+      "category": "美式休閒",
+      "floor": "5F",
+      "features": [4, 2],
+      "neighbors": ["5F_ESC", "5F_02"]
+    },
+    {
+      "id": "5F_02",
+      "name": "D.TELL",
+      "category": "潮流服飾",
+      "floor": "5F",
+      "features": [4, 2],
+      "neighbors": ["5F_01", "5F_03"]
+    },
+    {
+      "id": "5F_03",
+      "name": "GU",
+      "category": "快時尚服飾",
+      "floor": "5F",
+      "features": [5, 1],
+      "neighbors": ["5F_02", "5F_04"]
+    },
+    {
+      "id": "5F_04",
+      "name": "HOUSUXI",
+      "category": "生活選品",
+      "floor": "5F",
+      "features": [4, 2],
+      "neighbors": ["5F_03", "5F_05"]
+    },
+    {
+      "id": "5F_05",
+      "name": "HOME SHOP",
+      "category": "流行女裝",
+      "floor": "5F",
+      "features": [4, 2],
+      "neighbors": ["5F_04", "5F_06"]
+    },
+    {
+      "id": "5F_06",
+      "name": "JINS",
+      "category": "日系快配眼鏡",
+      "floor": "5F",
+      "features": [5, 3],
+      "neighbors": ["5F_05", "5F_07"]
+    },
+    {
+      "id": "5F_07",
+      "name": "KOMM-31",
+      "category": "潮流飾品",
+      "floor": "5F",
+      "features": [4, 2],
+      "neighbors": ["5F_06", "5F_08", "5F_ESC"]
+    },
+    {
+      "id": "5F_08",
+      "name": "kiki studio",
+      "category": "潮流服飾",
+      "floor": "5F",
+      "features": [4, 2],
+      "neighbors": ["5F_07", "5F_09"]
+    },
+    {
+      "id": "5F_09",
+      "name": "OUTDOOR",
+      "category": "戶外休閒包款",
+      "floor": "5F",
+      "features": [4, 3],
+      "neighbors": ["5F_08", "5F_ESC"]
+    },
+
+    {
+      "id": "6F_ESC",
+      "name": "6F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "6F",
+      "features": [0, 0],
+      "neighbors": ["6F_01", "6F_19"],
+      "floor_links": ["5F_ESC", "7F_ESC"]
+    },
+    {
+      "id": "6F_01",
+      "name": "AILI.旅行箱 愛力",
+      "category": "旅行箱包",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_ESC", "6F_02"]
+    },
+    {
+      "id": "6F_02",
+      "name": "BLUE WAY 普威",
+      "category": "牛仔休閒",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_01", "6F_03"]
+    },
+    {
+      "id": "6F_03",
+      "name": "BRAPPERS",
+      "category": "牛仔服飾",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_02", "6F_04"]
+    },
+    {
+      "id": "6F_04",
+      "name": "CUMAR.皮件",
+      "category": "商務皮件",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_03", "6F_05"]
+    },
+    {
+      "id": "6F_05",
+      "name": "CUMAR休閒服",
+      "category": "男士休閒",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_04", "6F_06"]
+    },
+    {
+      "id": "6F_06",
+      "name": "EMINENT",
+      "category": "專業旅行箱",
+      "floor": "6F",
+      "features": [4, 4],
+      "neighbors": ["6F_05", "6F_07"]
+    },
+    {
+      "id": "6F_07",
+      "name": "EDWIN 鑀德恩",
+      "category": "日系牛仔",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_06", "6F_08"]
+    },
+    {
+      "id": "6F_08",
+      "name": "E'SOPO",
+      "category": "流行休閒",
+      "floor": "6F",
+      "features": [4, 2],
+      "neighbors": ["6F_07", "6F_09"]
+    },
+    {
+      "id": "6F_09",
+      "name": "FOOTDISC 富足康",
+      "category": "科技鞋墊",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_08", "6F_10"]
+    },
+    {
+      "id": "6F_10",
+      "name": "GAUDI",
+      "category": "商務服飾",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_09", "6F_11"]
+    },
+    {
+      "id": "6F_11",
+      "name": "HUSH PUPPIES",
+      "category": "休閒鞋履",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_10", "6F_12"]
+    },
+    {
+      "id": "6F_12",
+      "name": "IZABO",
+      "category": "休閒服飾",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_11", "6F_13"]
+    },
+    {
+      "id": "6F_13",
+      "name": "LAKING",
+      "category": "年輕男裝",
+      "floor": "6F",
+      "features": [4, 2],
+      "neighbors": ["6F_12", "6F_14"]
+    },
+    {
+      "id": "6F_14",
+      "name": "LEE",
+      "category": "美系牛仔",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_13", "6F_15"]
+    },
+    {
+      "id": "6F_15",
+      "name": "MCS Marlboro Classics",
+      "category": "美式粗獷休閒",
+      "floor": "6F",
+      "features": [4, 4],
+      "neighbors": ["6F_14", "6F_16"]
+    },
+    {
+      "id": "6F_16",
+      "name": "NU",
+      "category": "科技健康",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_15", "6F_17"]
+    },
+    {
+      "id": "6F_17",
+      "name": "ONE BOY",
+      "category": "機能服飾",
+      "floor": "6F",
+      "features": [5, 2],
+      "neighbors": ["6F_16", "6F_18"]
+    },
+    {
+      "id": "6F_18",
+      "name": "江戶勝",
+      "category": "日系牛仔",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_17", "6F_19"]
+    },
+    {
+      "id": "6F_19",
+      "name": "PHITEN 銀谷",
+      "category": "水溶金屬健康",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_18", "6F_20", "6F_ESC"]
+    },
+    {
+      "id": "6F_20",
+      "name": "PPFM HOMME",
+      "category": "男士服飾",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_19", "6F_21"]
+    },
+    {
+      "id": "6F_21",
+      "name": "VENSERS",
+      "category": "皮件包款",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_20", "6F_22"]
+    },
+    {
+      "id": "6F_22",
+      "name": "VICTORIA/BIG TRAIN 維多利亞",
+      "category": "牛仔服飾",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_21", "6F_23"]
+    },
+    {
+      "id": "6F_23",
+      "name": "WALTZ 華爾滋",
+      "category": "商務皮鞋",
+      "floor": "6F",
+      "features": [4, 3],
+      "neighbors": ["6F_22", "6F_ESC"]
+    },
+
+    {
+      "id": "7F_ESC",
+      "name": "7F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "7F",
+      "features": [0, 0],
+      "neighbors": ["7F_01", "7F_08"],
+      "floor_links": ["6F_ESC", "8F_ESC"]
+    },
+    {
+      "id": "7F_01",
+      "name": "FOOTER",
+      "category": "除臭襪生活",
+      "floor": "7F",
+      "features": [4, 2],
+      "neighbors": ["7F_ESC", "7F_02"]
+    },
+    {
+      "id": "7F_02",
+      "name": "FASTER 名人泳裝",
+      "category": "泳裝休閒",
+      "floor": "7F",
+      "features": [4, 2],
+      "neighbors": ["7F_01", "7F_03"]
+    },
+    {
+      "id": "7F_03",
+      "name": "GIORDANO 佐丹奴",
+      "category": "大眾休閒",
+      "floor": "7F",
+      "features": [4, 2],
+      "neighbors": ["7F_02", "7F_04"]
+    },
+    {
+      "id": "7F_04",
+      "name": "LE COQ SPORTIF.SPORT",
+      "category": "法國公雞運動",
+      "floor": "7F",
+      "features": [4, 3],
+      "neighbors": ["7F_03", "7F_05"]
+    },
+    {
+      "id": "7F_05",
+      "name": "MOUNTNEER",
+      "category": "戶外休閒登山",
+      "floor": "7F",
+      "features": [4, 3],
+      "neighbors": ["7F_04", "7F_06"]
+    },
+    {
+      "id": "7F_06",
+      "name": "NIKE",
+      "category": "運動旗艦",
+      "floor": "7F",
+      "features": [5, 4],
+      "neighbors": ["7F_05", "7F_07"]
+    },
+    {
+      "id": "7F_07",
+      "name": "POLAR BEAR 北極熊",
+      "category": "戶外機能服飾",
+      "floor": "7F",
+      "features": [4, 3],
+      "neighbors": ["7F_06", "7F_08"]
+    },
+    {
+      "id": "7F_08",
+      "name": "SUN FLOWER三花",
+      "category": "生活棉品",
+      "floor": "7F",
+      "features": [4, 2],
+      "neighbors": ["7F_07", "7F_09", "7F_ESC"]
+    },
+    {
+      "id": "7F_09",
+      "name": "TRAVEL FOX 旅狐 /FLY",
+      "category": "休閒休旅鞋",
+      "floor": "7F",
+      "features": [4, 3],
+      "neighbors": ["7F_08", "7F_ESC"]
+    },
+
+    {
+      "id": "8F_ESC",
+      "name": "8F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "8F",
+      "features": [0, 0],
+      "neighbors": ["8F_01", "8F_19"],
+      "floor_links": ["7F_ESC", "9F_ESC"]
+    },
+    {
+      "id": "8F_01",
+      "name": "Agapebaby",
+      "category": "母嬰用品",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_ESC", "8F_02"]
+    },
+    {
+      "id": "8F_02",
+      "name": "Been Teen 嬪婷",
+      "category": "少女內著",
+      "floor": "8F",
+      "features": [4, 2],
+      "neighbors": ["8F_01", "8F_03"]
+    },
+    {
+      "id": "8F_03",
+      "name": "Baby City 娃娃城",
+      "category": "嬰兒用品",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_02", "8F_04"]
+    },
+    {
+      "id": "8F_04",
+      "name": "funbox 歡樂工場",
+      "category": "兒童玩具",
+      "floor": "8F",
+      "features": [5, 2],
+      "neighbors": ["8F_03", "8F_05"]
+    },
+    {
+      "id": "8F_05",
+      "name": "GENNIE'S MATERNITY奇妮孕哺",
+      "category": "孕婦服飾",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_04", "8F_06"]
+    },
+    {
+      "id": "8F_06",
+      "name": "LADIES 蕾黛絲",
+      "category": "女性內衣",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_05", "8F_07"]
+    },
+    {
+      "id": "8F_07",
+      "name": "Lady",
+      "category": "女性內衣",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_06", "8F_08"]
+    },
+    {
+      "id": "8F_08",
+      "name": "LES ENPHANTS 麗嬰房",
+      "category": "童裝童用品",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_07", "8F_09"]
+    },
+    {
+      "id": "8F_09",
+      "name": "Mode Marie 曼黛瑪璉",
+      "category": "女性內衣",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_08", "8F_10"]
+    },
+    {
+      "id": "8F_10",
+      "name": "Modern Girl 瑪登瑪朵",
+      "category": "女性內衣",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_09", "8F_11"]
+    },
+    {
+      "id": "8F_11",
+      "name": "臻品手作",
+      "category": "手作藝品",
+      "floor": "8F",
+      "features": [4, 2],
+      "neighbors": ["8F_10", "8F_12"]
+    },
+    {
+      "id": "8F_12",
+      "name": "奇迪歡樂世界",
+      "category": "兒童遊樂",
+      "floor": "8F",
+      "features": [4, 2],
+      "neighbors": ["8F_11", "8F_13"]
+    },
+    {
+      "id": "8F_13",
+      "name": "聖荃童鞋",
+      "category": "童鞋專門",
+      "floor": "8F",
+      "features": [4, 2],
+      "neighbors": ["8F_12", "8F_14"]
+    },
+    {
+      "id": "8F_14",
+      "name": "環安傢俱",
+      "category": "兒童安全家具",
+      "floor": "8F",
+      "features": [4, 4],
+      "neighbors": ["8F_13", "8F_15"]
+    },
+    {
+      "id": "8F_15",
+      "name": "Salute 莎露",
+      "category": "頂級女性內衣",
+      "floor": "8F",
+      "features": [5, 4],
+      "neighbors": ["8F_14", "8F_16"]
+    },
+    {
+      "id": "8F_16",
+      "name": "SAVVY 莎薇",
+      "category": "流行內衣",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_15", "8F_17"]
+    },
+    {
+      "id": "8F_17",
+      "name": "sloggi",
+      "category": "無痕舒適內著",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_16", "8F_18"]
+    },
+    {
+      "id": "8F_18",
+      "name": "SWEAR 思薇爾",
+      "category": "流行內衣",
+      "floor": "8F",
+      "features": [4, 3],
+      "neighbors": ["8F_17", "8F_19"]
+    },
+    {
+      "id": "8F_19",
+      "name": "Triumph 黛安芬",
+      "category": "女性內衣",
+      "floor": "8F",
+      "features": [5, 3],
+      "neighbors": ["8F_18", "8F_20", "8F_ESC"]
+    },
+    {
+      "id": "8F_20",
+      "name": "Wacoal 華歌爾",
+      "category": "女性內衣",
+      "floor": "8F",
+      "features": [5, 3],
+      "neighbors": ["8F_19", "8F_ESC"]
+    },
+
+    {
+      "id": "9F_ESC",
+      "name": "9F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "9F",
+      "features": [0, 0],
+      "neighbors": ["9F_01", "9F_19"],
+      "floor_links": ["8F_ESC", "10F_ESC"]
+    },
+    {
+      "id": "9F_01",
+      "name": "Bgreen",
+      "category": "運動家具",
+      "floor": "9F",
+      "features": [4, 4],
+      "neighbors": ["9F_ESC", "9F_02"]
+    },
+    {
+      "id": "9F_02",
+      "name": "cosmescents 伊聖詩",
+      "category": "芳療生活",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_01", "9F_03"]
+    },
+    {
+      "id": "9F_03",
+      "name": "Electrolux",
+      "category": "頂級家電",
+      "floor": "9F",
+      "features": [5, 4],
+      "neighbors": ["9F_02", "9F_04"]
+    },
+    {
+      "id": "9F_04",
+      "name": "HOME WORKING",
+      "category": "家事生活",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_03", "9F_05"]
+    },
+    {
+      "id": "9F_05",
+      "name": "HUEI YEH 輝葉",
+      "category": "按摩舒壓器材",
+      "floor": "9F",
+      "features": [4, 4],
+      "neighbors": ["9F_04", "9F_06"]
+    },
+    {
+      "id": "9F_06",
+      "name": "J&h 晶璽健康生活館",
+      "category": "健康器材",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_05", "9F_07"]
+    },
+    {
+      "id": "9F_07",
+      "name": "JuliArt",
+      "category": "專業髮品",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_06", "9F_08"]
+    },
+    {
+      "id": "9F_08",
+      "name": "Kinloch Anderson金安德森",
+      "category": "寢具家飾",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_07", "9F_09"]
+    },
+    {
+      "id": "9F_09",
+      "name": "OSIM 傲勝",
+      "category": "頂級按摩椅",
+      "floor": "9F",
+      "features": [5, 5],
+      "neighbors": ["9F_08", "9F_10"]
+    },
+    {
+      "id": "9F_10",
+      "name": "飛利浦-宏星",
+      "category": "智慧家電",
+      "floor": "9F",
+      "features": [5, 4],
+      "neighbors": ["9F_09", "9F_11"]
+    },
+    {
+      "id": "9F_11",
+      "name": "素顏之本",
+      "category": "手工皂保養",
+      "floor": "9F",
+      "features": [4, 2],
+      "neighbors": ["9F_10", "9F_12"]
+    },
+    {
+      "id": "9F_12",
+      "name": "元暉綜合家電",
+      "category": "生活家電",
+      "floor": "9F",
+      "features": [4, 4],
+      "neighbors": ["9F_11", "9F_13"]
+    },
+    {
+      "id": "9F_13",
+      "name": "京都西川",
+      "category": "日系頂級寢具",
+      "floor": "9F",
+      "features": [5, 4],
+      "neighbors": ["9F_12", "9F_14"]
+    },
+    {
+      "id": "9F_14",
+      "name": "金格名床",
+      "category": "名品床墊",
+      "floor": "9F",
+      "features": [5, 5],
+      "neighbors": ["9F_13", "9F_15"]
+    },
+    {
+      "id": "9F_15",
+      "name": "恆隆行",
+      "category": "精品廚房生活家電",
+      "floor": "9F",
+      "features": [5, 4],
+      "neighbors": ["9F_14", "9F_16"]
+    },
+    {
+      "id": "9F_16",
+      "name": "喬山按摩館",
+      "category": "健身按摩器材",
+      "floor": "9F",
+      "features": [5, 4],
+      "neighbors": ["9F_15", "9F_17"]
+    },
+    {
+      "id": "9F_17",
+      "name": "掌廚",
+      "category": "鍋具料理生活",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_16", "9F_18"]
+    },
+    {
+      "id": "9F_18",
+      "name": "集雅社",
+      "category": "影音音響家電",
+      "floor": "9F",
+      "features": [5, 5],
+      "neighbors": ["9F_17", "9F_19"]
+    },
+    {
+      "id": "9F_19",
+      "name": "雙全生活館",
+      "category": "生活選品家電",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_18", "9F_20", "9F_ESC"]
+    },
+    {
+      "id": "9F_20",
+      "name": "PICO 比可",
+      "category": "精品寢具",
+      "floor": "9F",
+      "features": [4, 3],
+      "neighbors": ["9F_19", "9F_21"]
+    },
+    {
+      "id": "9F_21",
+      "name": "SPRING 均岱",
+      "category": "進口頂級鍋具",
+      "floor": "9F",
+      "features": [4, 4],
+      "neighbors": ["9F_20", "9F_ESC"]
+    },
+
+    {
+      "id": "10F_ESC",
+      "name": "10F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "10F",
+      "features": [0, 0],
+      "neighbors": ["10F_01", "10F_04"],
+      "floor_links": ["9F_ESC", "11F_ESC"]
+    },
+    {
+      "id": "10F_01",
+      "name": "燒肉SMILE",
+      "category": "個人燒肉名店",
+      "floor": "10F",
+      "features": [5, 3],
+      "neighbors": ["10F_ESC", "10F_02"]
+    },
+    {
+      "id": "10F_02",
+      "name": "時時香SHANN RICE BAR",
+      "category": "中式主題餐廳",
+      "floor": "10F",
+      "features": [5, 4],
+      "neighbors": ["10F_01", "10F_03"]
+    },
+    {
+      "id": "10F_03",
+      "name": "瓦城",
+      "category": "泰式主題餐廳",
+      "floor": "10F",
+      "features": [5, 4],
+      "neighbors": ["10F_02", "10F_04"]
+    },
+    {
+      "id": "10F_04",
+      "name": "勝博殿",
+      "category": "日式豬排專門",
+      "floor": "10F",
+      "features": [5, 3],
+      "neighbors": ["10F_03", "10F_ESC"]
+    },
+
+    {
+      "id": "11F_ESC",
+      "name": "11F 手扶梯/電梯",
+      "category": "動線設施",
+      "floor": "11F",
+      "features": [0, 0],
+      "neighbors": ["11F_01"],
+      "floor_links": ["10F_ESC"]
+    },
+    {
+      "id": "11F_01",
+      "name": "饗食天堂",
+      "category": "頂級百匯吃到飽",
+      "floor": "11F",
+      "features": [5, 5],
+      "neighbors": ["11F_ESC"]
+    }
+  ]
+}

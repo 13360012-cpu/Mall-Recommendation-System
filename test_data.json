@@ -1,0 +1,316 @@
+[
+  {
+    "user_id": "U0103",
+    "persona": "beauty_food",
+    "history": [
+      "1F_12",
+      "1F_13",
+      "1F_14",
+      "1F_13",
+      "1F_12",
+      "1F_11",
+      "1F_10"
+    ],
+    "target": "1F_09"
+  },
+  {
+    "user_id": "U0081",
+    "persona": "fashion_dining",
+    "history": [
+      "1F_18",
+      "1F_19"
+    ],
+    "target": "2F_01"
+  },
+  {
+    "user_id": "U0067",
+    "persona": "home_gourmet",
+    "history": [
+      "1F_11",
+      "1F_10",
+      "1F_11",
+      "1F_12",
+      "1F_13",
+      "1F_14"
+    ],
+    "target": "1F_13"
+  },
+  {
+    "user_id": "U0031",
+    "persona": "fashion_dining",
+    "history": [
+      "1F_02",
+      "1F_01",
+      "1F_02",
+      "1F_01",
+      "1F_01",
+      "1F_02",
+      "1F_03",
+      "1F_04"
+    ],
+    "target": "1F_03"
+  },
+  {
+    "user_id": "U0029",
+    "persona": "beauty_food",
+    "history": [
+      "B1F_02",
+      "B1F_03",
+      "B1F_04",
+      "B1F_03",
+      "B1F_04",
+      "B1F_03",
+      "B1F_02",
+      "B1F_03",
+      "B1F_02"
+    ],
+    "target": "B1F_01"
+  },
+  {
+    "user_id": "U0107",
+    "persona": "family_sports",
+    "history": [
+      "B1F_14",
+      "1F_19",
+      "1F_18"
+    ],
+    "target": "1F_19"
+  },
+  {
+    "user_id": "U0118",
+    "persona": "beauty_food",
+    "history": [
+      "B1F_11",
+      "B1F_12",
+      "B1F_13",
+      "B1F_14"
+    ],
+    "target": "B1F_01"
+  },
+  {
+    "user_id": "U0006",
+    "persona": "home_gourmet",
+    "history": [
+      "1F_01",
+      "1F_02",
+      "1F_01"
+    ],
+    "target": "1F_01"
+  },
+  {
+    "user_id": "U0057",
+    "persona": "home_gourmet",
+    "history": [
+      "1F_04",
+      "1F_05",
+      "1F_06",
+      "1F_07",
+      "1F_08",
+      "1F_07",
+      "1F_08"
+    ],
+    "target": "1F_09"
+  },
+  {
+    "user_id": "U0079",
+    "persona": "family_sports",
+    "history": [
+      "1F_21",
+      "1F_20",
+      "1F_19",
+      "1F_01",
+      "1F_02"
+    ],
+    "target": "1F_01"
+  },
+  {
+    "user_id": "U0013",
+    "persona": "family_sports",
+    "history": [
+      "1F_17",
+      "1F_18",
+      "1F_19"
+    ],
+    "target": "1F_01"
+  },
+  {
+    "user_id": "U0072",
+    "persona": "beauty_food",
+    "history": [
+      "1F_25",
+      "1F_26",
+      "1F_27",
+      "1F_26",
+      "1F_27",
+      "1F_26",
+      "1F_27"
+    ],
+    "target": "1F_26"
+  },
+  {
+    "user_id": "U0112",
+    "persona": "beauty_food",
+    "history": [
+      "1F_09",
+      "1F_08",
+      "1F_09",
+      "1F_08",
+      "1F_07",
+      "1F_06",
+      "1F_05",
+      "1F_06",
+      "1F_05",
+      "1F_06"
+    ],
+    "target": "1F_07"
+  },
+  {
+    "user_id": "U0090",
+    "persona": "family_sports",
+    "history": [
+      "7F_06",
+      "7F_05",
+      "7F_06",
+      "7F_05",
+      "7F_06",
+      "7F_05",
+      "7F_06",
+      "7F_05",
+      "7F_06",
+      "7F_07"
+    ],
+    "target": "7F_06"
+  },
+  {
+    "user_id": "U0015",
+    "persona": "family_sports",
+    "history": [
+      "1F_25",
+      "1F_26",
+      "1F_25",
+      "1F_24",
+      "1F_23",
+      "1F_24",
+      "1F_25",
+      "1F_26",
+      "1F_25"
+    ],
+    "target": "1F_24"
+  },
+  {
+    "user_id": "U0117",
+    "persona": "beauty_food",
+    "history": [
+      "1F_20",
+      "1F_19",
+      "1F_01",
+      "B1F_10",
+      "B1F_09"
+    ],
+    "target": "B1F_10"
+  },
+  {
+    "user_id": "U0019",
+    "persona": "beauty_food",
+    "history": [
+      "B1F_14",
+      "1F_19",
+      "1F_01",
+      "1F_02",
+      "1F_01",
+      "1F_02",
+      "1F_03"
+    ],
+    "target": "1F_02"
+  },
+  {
+    "user_id": "U0030",
+    "persona": "home_gourmet",
+    "history": [
+      "1F_24",
+      "1F_25",
+      "1F_24",
+      "1F_25",
+      "1F_26",
+      "1F_25",
+      "1F_24"
+    ],
+    "target": "1F_25"
+  },
+  {
+    "user_id": "U0033",
+    "persona": "home_gourmet",
+    "history": [
+      "B1F_04",
+      "B1F_05",
+      "B1F_06",
+      "B1F_05",
+      "B1F_04",
+      "B1F_05",
+      "B1F_06",
+      "B1F_05"
+    ],
+    "target": "B1F_04"
+  },
+  {
+    "user_id": "U0037",
+    "persona": "beauty_food",
+    "history": [
+      "1F_04",
+      "1F_05",
+      "1F_06",
+      "1F_05",
+      "1F_06"
+    ],
+    "target": "1F_07"
+  },
+  {
+    "user_id": "U0099",
+    "persona": "home_gourmet",
+    "history": [
+      "1F_05",
+      "1F_06",
+      "1F_07",
+      "1F_06",
+      "1F_05"
+    ],
+    "target": "1F_06"
+  },
+  {
+    "user_id": "U0005",
+    "persona": "family_sports",
+    "history": [
+      "B1F_06",
+      "B1F_07",
+      "B1F_06",
+      "B1F_05",
+      "B1F_06",
+      "B1F_07",
+      "B1F_06"
+    ],
+    "target": "B1F_05"
+  },
+  {
+    "user_id": "U0016",
+    "persona": "fashion_dining",
+    "history": [
+      "B1F_12",
+      "B1F_13"
+    ],
+    "target": "B1F_14"
+  },
+  {
+    "user_id": "U0085",
+    "persona": "family_sports",
+    "history": [
+      "B1F_02",
+      "B1F_01",
+      "B1F_02",
+      "B1F_03",
+      "B1F_02",
+      "B1F_03",
+      "B1F_02"
+    ],
+    "target": "B1F_01"
+  }
+]
