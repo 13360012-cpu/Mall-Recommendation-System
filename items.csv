@@ -1,0 +1,11 @@
+item_id,item_name,category,price,popularity
+I001,Nike運動鞋,運動,2500,0.90
+I002,Adidas運動外套,運動,1800,0.75
+I003,MAC唇膏,美妝,1200,0.85
+I004,CHANEL香水,美妝,3500,0.95
+I005,ZARA牛仔外套,服飾,1800,0.80
+I006,UNIQLO針織衫,服飾,990,0.70
+I007,Apple AirPods,3C,4990,0.98
+I008,Logitech滑鼠,3C,890,0.65
+I009,星巴克咖啡券,美食,500,0.88
+I010,王品餐券,美食,1000,0.72
