@@ -37,11 +37,11 @@ for session in train_data:
     if "target" in session:
         purchase_counter[session["target"]] += 1
 
-# 4. 輸出【全商場】熱門人氣推薦 Top 3 (與分類別統一風格)
+# 4. 輸出【全商場】熱門人氣推薦 Top 10 (保持簡潔統一格式)
 print("==========================================")
-print("🏆 全商場熱門人氣推薦 Top 3")
+print("🏆 全商場熱門人氣推薦 Top 10")
 print("==========================================")
-for rank, (store_id, count) in enumerate(purchase_counter.most_common(3), 1):
+for rank, (store_id, count) in enumerate(purchase_counter.most_common(10), 1):
     info = store_map.get(store_id, {"name": store_id, "floor": ""})
     print(f"  Top {rank}：{info['name']} [{info['floor']}]")
 
